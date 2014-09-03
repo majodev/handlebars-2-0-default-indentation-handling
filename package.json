@@ -1,7 +1,7 @@
 {
   "name": "handlebars-2-0-default-indentation-handling",
   "version": "0.0.1",
-  "description": "describing indentation problem with handlebars 2.0 (alpha 4 not affected)",
+  "description": "describing problematic new indentation feature with handlebars 2.0 (alpha 4 not affected)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
