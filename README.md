@@ -1,4 +1,4 @@
-# handlebars-2-0-indentation-problem
+# handlebars-2-0-default-indentation-handling
 
 Current Handlebars versions [>v2.0.0-alpha.4](https://github.com/wycats/handlebars.js/releases/tag/v2.0.0-alpha.4) automatically add indentation to contained partials within templates (previous versions unaffected). [Release notes](https://github.com/wycats/handlebars.js/blob/master/release-notes.md#v200-beta1---august-26th-2014) mention the new behaviour: *Partials that are standalone will now indent their rendered content*, however provide **no workaround** to disable this functionality was provided. 
 
